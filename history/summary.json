@@ -4,19 +4,19 @@
     "url": "https://abstraxon.com",
     "icon": "https://icons.duckduckgo.com/ip3/abstraxon.com.ico",
     "slug": "abstraxon-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 145,
-    "timeWeek": 164,
+    "timeDay": 159,
+    "timeWeek": 165,
     "timeMonth": 170,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-09-15": 0,
+      "2024-09-15": 9,
       "2024-01-15": 16
     }
   }
