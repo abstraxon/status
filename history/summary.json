@@ -4,7 +4,7 @@
     "url": "https://abstraxon.com",
     "icon": "https://icons.duckduckgo.com/ip3/abstraxon.com.ico",
     "slug": "abstraxon-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 148,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-12-29": 19,
       "2024-12-26": 14,
       "2024-12-22": 18,
